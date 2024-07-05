@@ -1,5 +1,6 @@
 ConstellationAI
 This project is set out to classify different constellations based on four major categories: 'aries' 'libra' 'pisces' and 'virgo.' As someone who always stared up at the sky and though everything looked the same, I though this project could help a lot of people learn about how much really exists up there. This project can help anyone who wants to identify different constellations and learn more about the sky.
+
 This image is of the libra constellation, and it is correctly classified as libra:(https://github.com/skammu18/Constellations/assets/173948115/33873b03-73c1-4790-82d5-7e3563cde31f)
 
 ## The Algorithm
